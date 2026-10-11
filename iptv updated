@@ -1,0 +1,31 @@
+#EXTINF:-1  tvg-name="Tsports" group-title="Sports",Tsports
+https://tv.moviemasti.net:8443/T-SPORTS-HD/index.m3u8?token=263266fd11089b8baf6b9b305f09de1e25d5e5eb-f1e47429ec35fa2a4ac12340e8ee8630-1791800051-1791756551
+
+
+#EXTINF:-1  tvg-name="Asports" group-title="Sports",Asports
+https://tv.moviemasti.net:8443/A.SPORTS.HD/tracks-v1a1/mono.m3u8?token=fea2d779c24664c3efb7754d6f5ebad4ae1c65a0-a632c6ebe60956c1f87b4036e5daefd9-1791798310-1791754810
+
+#EXTINF:-1  tvg-name="Ptv sports" group-title="Sports",Ptv sports
+https://tv.moviemasti.net:8443/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?token=ceaee283bf7a8abe80db0996e0c31025e8736e11-41a128024abb732944e6214365db623c-1791800268-1791756768
+
+
+#EXTINF:-1  tvg-name="Sony sports 5" group-title="Sports",Sony Sports 5
+https://tv.moviemasti.net:8443/SONY-SPORTS.5HD/tracks-v1a1/mono.m3u8?token=cf331e51ed5bd11dfbc559d2d814577d1de0b841-7a05d9c213bc1cf1c88c116dfb77faf8-1791800268-1791756768
+
+
+#EXTINF:-1  tvg-name="Sony sports 1" group-title="Sports",Sony sports 1
+https://tv.moviemasti.net:8443/SONY.SPORTS.1HD/tracks-v1a1/mono.m3u8?token=8dc62c81a63157678e68211a441f10f8b4f1352d-9b1ba1659fd6d6a47c9f92e112dd408a-1791800268-1791756768
+
+
+#EXTINF:-1  tvg-name="Sony sports 3" group-title="Sports",Sony sports 3
+
+https://tv.moviemasti.net:8443/SONY.SPORTS.3/tracks-v1a1/mono.m3u8?token=b00bdd5109a99e59bf1f016d115003695b7bfe37-444a23ac099fd23b3bead2bc3200b931-1791800268-1791756768
+
+#EXTINF:-1  tvg-name="Sony sports 4" group-title="Sports",Sony sports 4
+
+https://tv.moviemasti.net:8443/SONY.SPORTS.4/tracks-v1a1/mono.m3u8?token=61d4b29e401294a4ebd6919ed3f691e84a2caeab-fa3845090c8ba21a1bfe9a1650054818-1791800268-1791756768
+
+#EXTINF:-1  tvg-name="Star sports 1" group-title="Sports",Star sports 1
+
+https://tv.moviemasti.net:8443/STAR.SPORTS1.HD/tracks-v1a1/mono.m3u8?token=d244dbcc264bcb045a8ff5c783d6d0e75c976b7b-1a868147ff9f649e280d745934f1730c-1791800268-1791756768
+
